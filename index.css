@@ -14,3 +14,11 @@ input {
 button {
     margin-top: 10px;
 }
+
+form {
+    background-color: white;
+}
+
+body {
+    background-color: whitesmoke;
+}
