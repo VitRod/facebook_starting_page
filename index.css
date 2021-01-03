@@ -6,3 +6,11 @@ h1 {
     font-size: 50px;
     color: blue;
 }
+
+input {
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+}
